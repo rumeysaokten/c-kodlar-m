@@ -1,0 +1,14 @@
+C:\Users\rmsok\OneDrive\Desktop\c# derleme\obj\Debug\net10.0\c# derleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmsok\OneDrive\Desktop\c# derleme\obj\Debug\net10.0\c# derleme.AssemblyInfoInputs.cache
+C:\Users\rmsok\OneDrive\Desktop\c# derleme\obj\Debug\net10.0\c# derleme.AssemblyInfo.cs
+C:\Users\rmsok\OneDrive\Desktop\c# derleme\obj\Debug\net10.0\c# derleme.csproj.CoreCompileInputs.cache
+C:\Users\rmsok\OneDrive\Desktop\c# derleme\bin\Debug\net10.0\c# derleme.exe
+C:\Users\rmsok\OneDrive\Desktop\c# derleme\bin\Debug\net10.0\c# derleme.deps.json
+C:\Users\rmsok\OneDrive\Desktop\c# derleme\bin\Debug\net10.0\c# derleme.runtimeconfig.json
+C:\Users\rmsok\OneDrive\Desktop\c# derleme\bin\Debug\net10.0\c# derleme.dll
+C:\Users\rmsok\OneDrive\Desktop\c# derleme\bin\Debug\net10.0\c# derleme.pdb
+C:\Users\rmsok\OneDrive\Desktop\c# derleme\obj\Debug\net10.0\c# derleme.dll
+C:\Users\rmsok\OneDrive\Desktop\c# derleme\obj\Debug\net10.0\refint\c# derleme.dll
+C:\Users\rmsok\OneDrive\Desktop\c# derleme\obj\Debug\net10.0\c# derleme.pdb
+C:\Users\rmsok\OneDrive\Desktop\c# derleme\obj\Debug\net10.0\c# derleme.genruntimeconfig.cache
+C:\Users\rmsok\OneDrive\Desktop\c# derleme\obj\Debug\net10.0\ref\c# derleme.dll
